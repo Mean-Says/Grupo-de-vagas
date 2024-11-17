@@ -100,7 +100,8 @@ python GetChats.py
 2. Envio de Vagas (client.py)
    Configuração: No client.py, defina o ID do chat no campo chatId, o intervalo entre mensagens (time.sleep(180)) e o conteúdo da mensagem.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/7aea7e0f-39cd-4435-8e80-88926655c9a5)
+
 
 3. Arquivo de vagas: Crie um arquivo chamado jobs_results.txt e adicione vagas no formato JSON em cada linha:
 

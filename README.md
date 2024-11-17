@@ -45,7 +45,7 @@ A API estará acessível em http://localhost:3000.
 Para conectar seu WhatsApp à API, execute o comando abaixo em um terminal separado:
 
 ```bash
-curl localhost:3000/api/startSession/{IDENTIFICADOR_DE_SESSÃO}
+curl http:localhost:3000/api/startSession/{IDENTIFICADOR_DE_SESSÃO}
 ```
 
 Substitua {IDENTIFICADOR_DE_SESSÃO} por um identificador único, como "ABCD". Após isso, escaneie o QR Code que aparecerá no terminal.
